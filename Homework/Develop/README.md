@@ -13,3 +13,5 @@
 ![Screenshot (53)](https://user-images.githubusercontent.com/77637862/115974758-dfa49900-a513-11eb-81e3-934232fc1f1d.png)
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/77637862/115974759-e0d5c600-a513-11eb-9e2a-46e2561bf1c0.png)
+
+![Walkthrough video] (https://drive.google.com/file/d/1etbzZ6UQXmZL4GPwlpIYC2tMbcCdCtgb/view)
